@@ -4,12 +4,12 @@ Tests kaldiio + writing out a flac
 
 Create a virtual environment:
 
-virtualenv -p /usr/bin/python3.10 test_env
+    virtualenv -p python3.10 test_env
 
 Activate it:
 
-source test_env/bin/activate
+    source test_env/bin/activate
 
 Install requirements:
 
-pip3 install -r requirements.txt
+    pip3 install -r requirements.txt
